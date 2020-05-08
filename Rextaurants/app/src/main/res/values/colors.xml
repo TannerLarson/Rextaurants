@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A52E51</color>
+    <color name="colorPrimaryDark">#D63605</color>
+    <color name="colorAccent">#E3B70B</color>
+    <color name="year">#FCF3E8</color> <!--following tutorial and added these colors-->
+    <color name="title">#F47E2A</color>
+</resources>

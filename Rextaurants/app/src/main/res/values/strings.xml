@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rextaurants</string>
+    <string name="moodFor">What are you in the mood for?</string>
+    <string name="favs">Favorites  ⭐</string>
+    <string name="Mexican">Mexican</string>
+    <string name="American">American</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Sandwich">Sandwich</string>
+    <string name="Drink_Shop">Drink Shop</string>
+    <string name="Diner">Diner</string>
+    <string name="Asian">Asian</string>
+    <string name="BBQ">BBQ</string>
+    <string name="Dessert">Dessert</string>
+    <string name="Fast_Food">Fast Food</string>
+    <string name="Buffet">Buffet</string>
+    <string name="Apply_Mood">Apply</string>
+    <string name="_name">" Restaurants:"</string>
+    <string name="Search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="details">Get Details</string>
+</resources>
